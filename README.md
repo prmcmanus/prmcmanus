@@ -1,20 +1,21 @@
 👋 Hi, I’m @prmcmanus
 
-Profile photo was to enrage my daughter. Worked a charm 😂
+My profile photo was made to enrage my daughter. It worked a charm 😂
 
 I've built: 
 - Android images
 
-After "Stagefright" was patched, I continued to build images for older devices that couldn't upgrade to the latest version of Android.
+After "Stagefright" was patched, I continued to build images for older devices that couldn't upgrade to the latest version of Android.  
+I've also merged projects to make my own release.
+
+- Linux Distributions for diagnostic repair.
+
+For work, used for thousands of repairs to enable diagnostics that didn't rely on viewing or unencrypting customer data.  
+Customised for that employer, using their branding
 
 - Patched Linux kernels
 
-For my device at home
-
-- custom Linux Distributions for diagnostic repair.
-
-For work, used for thousands of repairs to enable diagnostics that didn't rely on viewing or unencrypting customer data.
-
+For my device at home.
 
 I'm here to learn more and contribute towards projects where possible.
 
