@@ -1,6 +1,6 @@
 👋 Hi, I’m @prmcmanus
 
-My profile photo was made to enrage my daughter. It worked a charm 😂
+My profile photo was made to enrage my daughter, and it worked a charm 😂
 
 I've built: 
 - Android images. After "Stagefright" was patched, I continued to build images for older devices that couldn't upgrade to the latest version of Android.  
@@ -10,7 +10,9 @@ Customised for that employer, using their branding
 
 👀 I’m interested in ... Motorbikes, Linux and FOSS
 
-🌱 I’m currently learning ... LFS211 and working towards LFCE
+🌱 I’m currently learning ... LFS211 and working towards ~~LFCE~~ undecided now. I was due to take the exam and they were pulled.
+
+I'm working as an IT Manager and deciding which LF Exam best suits. 
 
 
 
