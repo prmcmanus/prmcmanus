@@ -1,18 +1,14 @@
-👋 Hi, I’m @prmcmanus
+👋 Hi, I'm rarely here in my current role (IT Manager), but it's good to have a hobby every now and then!
 
-My profile photo was made to enrage my daughter, and it worked a charm 😂
-
-I've built: 
-- Android images. After "Stagefright" was patched, I continued to build images for older devices that couldn't upgrade to the latest version of Android.  
-I've also merged projects to make my own release.
-- Linux Distributions for diagnostic repair. For work, used for thousands of repairs to enable diagnostics that didn't rely on viewing or unencrypting customer data.  
-Customised for that employer, using their branding
+I've built Android Images and custom Linux Distros.
+- 🤖 Android images. After "Stagefright" was patched, I continued to build images for older devices that couldn't upgrade to the latest version of Android.  I've also merged projects to make my own release.
+- 🐧 Linux Distributions for diagnostic repair. For work, used for thousands of repairs to enable diagnostics that didn't rely on viewing or unencrypting customer data. Customised for that employer, using their branding
 
 👀 I’m interested in ... Motorbikes, Linux and FOSS
 
-🌱 I’m currently learning ... LFS211 and working towards ~~LFCE~~ undecided now. I was due to take the exam and they were pulled.
+🌱 I’m currently learning ... LFS211 and working towards ~~LFCE~~ 
 
-I'm working as an IT Manager and deciding which LF Exam best suits. 
+I was due to take the exam and they were pulled, so still deciding what to do next
 
 
 
