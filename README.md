@@ -1,28 +1,63 @@
-👋 Hi, I'm rarely here in my current role (IT Manager), but it's good to have a hobby every now and then!
+# 👋 Hey, I'm Paul
 
-I've built Android Images and custom Linux Distros.
-- 🤖 Android images. After "Stagefright" was patched, I continued to build images for older devices that couldn't upgrade to the latest version of Android.  I've also merged projects to make my own release.
-- 🐧 Linux Distributions for diagnostic repair. For work, used for thousands of repairs to enable diagnostics that didn't rely on viewing or unencrypting customer data. Customised for that employer, using their branding
+This is my little corner of GitHub.
 
-👀 I’m interested in ... Motorbikes, Linux and FOSS
+Mostly a hobby space for things I've built, broken, rebuilt, experimented with, or thought were interesting enough to keep.
 
-🌱 I’m currently learning ... LFS211 and working towards ~~LFCE~~ 
+## 🔧 Things I've built
 
-I was due to take the exam and they were pulled, so still deciding what to do next
+### 🤖 Android
 
+I've spent a fair amount of time building custom Android images.
 
+After the **Stagefright** vulnerabilities were patched, I continued producing updated Android builds for older devices that couldn't officially move to newer Android versions.
 
+I've also merged features and ideas from different projects to create my own releases.
 
+Because apparently just installing Android normally would be too easy.
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+### 🐧 Linux
 
+I've built custom Linux distributions designed specifically for **diagnostics and hardware repair**.
 
-<!---
-prmcmanus/prmcmanus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+One of these evolved into a heavily customised diagnostic environment that went on to be used for **thousands of device repairs**.
+
+The idea was simple: provide engineers with the diagnostic tools they needed without needing to access, view or decrypt customer data.
+
+It was customised and branded for the organisation using it, but the underlying idea came from my general enthusiasm for Linux, automation and solving awkward technical problems.
+
+## 🏍️ Things I'm into
+
+- 🐧 Linux
+- 🧩 FOSS
+- 🏍️ Motorbikes
+- 🔧 Building things
+- 💥 Occasionally breaking things
+- 🕵️ Finding out *why* they broke
+
+## 🌱 Currently learning
+
+I've been working through **LFS211: Linux Networking and Administration**.
+
+I had originally been working towards the **LFCE (Linux Foundation Certified Engineer)** and was due to take the exam when it was retired.
+
+So...
+```
+LFCE
+ ├── Study
+ ├── Study some more
+ ├── Book exam
+ └── Exam retired 🤦
+```
+
+I'm still deciding what comes next.
+
+## 💻 Why this GitHub exists
+
+No grand plan.
+
+It's somewhere to experiment, learn, keep useful bits of code and occasionally build something simply because I wondered:
+
+"Can I make that work?"
+
+That's usually where the interesting projects start.
